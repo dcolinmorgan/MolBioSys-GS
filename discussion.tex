@@ -1,0 +1,27 @@
+\section{Discussion}
+\label{discussion}
+\gs is a package for GRN inference analysis, for method choice, evaluation and optimization.
+It allows the user to control both network and data properties, and contains methods for exploring and analyzing these properties, as well as those of the inference method and its performance.
+This opens up new possibilities to understand how these properties affect the performance of inference algorithms.
+
+\gs can create networks with different topological properties that are typical for biological networks.
+Given a network, \gs can then simulate expression data that is as informative as typical biological datasets.
+However, its unique strength is varying these properties across a wide range of values to gain insights about the limitations and expected performance of a given inference method.
+After all, biological data from different sources varies in terms of network and data properties, and the performance of inference methods depend on these properties.
+Therefore, when a network inference method is applied to a biological dataset, it is important to make sure that the method has been benchmarked on simulated data with the same properties.
+This is not standard practice today, even though it would provide information about the reliability of the inferred network.
+%
+\gs can also be used to investigate how network properties such as topology and IAA affect data properties.
+The nature of the generated data also depends on the experimental design employed for perturbation.
+Therefore, \gs supports a range of different experimental design schemes.
+For instance, one can control the number of experiments and how many genes are perturbed in each experiment.
+This can be of great value when designing wet lab experiments--if a particular design gives optimal results in a benchmark, then it should be the preferred choice when performing real experiments.
+
+It has previously been observed that L$_1$ methods such as Glmnet perform considerably better at low than at high IAA   \citep{Tjarnberg2014}. Such a trend was not clearly observable in this benchmark, probably because the low IAA setting here was not as low as in the previous study.
+
+The \gs package is implemented in \matlab and provides native storage functionality, as well as export options to formats more easily acceptable by other programming languages, including XML and JSON.
+\gs fills a gap between theoretical analysis and experimental setup and could be incorporated in many current GRN inference and benchmarking pipelines.
+
+\section{Acknowledgements}
+\label{acknowledgements}
+This work was partly supported by the Swedish strategic research program eSSENCE, a startup grant by the National Cheng Kung University, and a grant  from the Ministry of science and technology in Taiwan (105-2218-E-006-016-MY2).

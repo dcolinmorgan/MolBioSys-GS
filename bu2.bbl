@@ -1,0 +1,162 @@
+\begin{thebibliography}{}
+
+\bibitem[Abenius and U(2010)Abenius and U]{abenius2010report}
+Abenius, T. and U, A.~X. (2010).
+\newblock Summary of methods.
+\newblock {\em Control\/}, pages 18--21.
+
+\bibitem[Almeida {\em et~al.}(2003)Almeida, Wu, and Voit]{Almeida2003}
+Almeida, J.~S., Wu, S., and Voit, E.~O. (2003).
+\newblock Xml4mat: Inter-conversion between matlab tm structured variables and
+  the markup language mbml.
+
+\bibitem[Bach(2008)Bach]{Bach2008}
+Bach, F.~R. (2008).
+\newblock Bolasso: Model consistent lasso estimation through the bootstrap.
+\newblock In {\em Proceedings of the 25th International Conference on Machine
+  Learning\/}, ICML '08, pages 33--40, New York, NY, USA. ACM.
+
+\bibitem[Banga and Balsa-Canto(2008)Banga and Balsa-Canto]{Banga2008}
+Banga, J.~R. and Balsa-Canto, E. (2008).
+\newblock Parameter estimation and optimal experimental design.
+\newblock {\em Essays In Biochemistry\/}, {\bf 45}, 195--210.
+
+\bibitem[Bonneau {\em et~al.}(2006)Bonneau, Reiss, Shannon, Facciotti, Hood,
+  Baliga, and Thorsson]{Bonneau2006}
+Bonneau, R., Reiss, D.~J., Shannon, P., Facciotti, M., Hood, L., Baliga, N.~S.,
+  and Thorsson, V. (2006).
+\newblock The inferelator: an algorithm for learning parsimonious regulatory
+  networks from systems-biology data sets de novo.
+\newblock {\em Genome biology\/}, {\bf 7}(5), R36.
+
+\bibitem[{Di Bernardo} {\em et~al.}(2004){Di Bernardo}, Gardner, and
+  Collins]{DiBernardo2004}
+{Di Bernardo}, D., Gardner, T.~S., and Collins, J.~J. (2004).
+\newblock Robust identification of large genetic networks.
+\newblock {\em Pacific Symposium on Biocomputing. Pacific Symposium on
+  Biocomputing\/}, {\bf 497}, 486--497.
+
+\bibitem[Franceschini and Macchietto(2008)Franceschini and
+  Macchietto]{Franceschini2008}
+Franceschini, G. and Macchietto, S. (2008).
+\newblock Model-based design of experiments for parameter precision: State of
+  the art.
+\newblock {\em CHEMICAL ENGINEERING SCIENCE\/}, {\bf 63}, 4846--4872.
+
+\bibitem[Friedman {\em et~al.}(2008)Friedman, Hastie, and
+  Tibshirani]{Friedman2008}
+Friedman, J., Hastie, T., and Tibshirani, R. (2008).
+\newblock Sparse inverse covariance estimation with the graphical lasso.
+\newblock {\em Biostatistics (Oxford, England)\/}, {\bf 9}(3), 432--441.
+
+\bibitem[Friedman {\em et~al.}(2010)Friedman, Hastie, and
+  Tibshirani]{Friedman2010}
+Friedman, J., Hastie, T., and Tibshirani, R. (2010).
+\newblock Regularization paths for generalized linear models via coordinate
+  descent.
+\newblock {\em Journal of statistical software\/}, {\bf 33}(1), 1--22.
+
+\bibitem[Gardner {\em et~al.}(2003)Gardner, Bernardo, Lorenz, and
+  Collins]{Gardner2003}
+Gardner, T.~S., Bernardo, D., Lorenz, D., and Collins, J.~J. (2003).
+\newblock Inferring genetic networks and identifying compound mode of action
+  via expression profiling.
+\newblock {\em Science\/}, {\bf 301}(7), 102--105.
+
+\bibitem[Gustafsson and H\"{o}rnquist(2010)Gustafsson and
+  H\"{o}rnquist]{Gustafsson2010}
+Gustafsson, M. and H\"{o}rnquist, M. (2010).
+\newblock Gene expression prediction by soft integration and the elastic
+  net-best performance of the dream3 gene expression challenge.
+\newblock {\em PloS one\/}, {\bf 5}(2), e9134.
+
+\bibitem[Gustafsson {\em et~al.}(2005)Gustafsson, H?rnquist, and
+  Lombardi]{Gustafsson2005}
+Gustafsson, M., H?rnquist, M., and Lombardi, A. (2005).
+\newblock Constructing and analyzing a large-scale gene-to-gene regulatory
+  network-lasso-constrained inference and biological validation.
+\newblock {\em IEEE/ACM Transactions on Computational Biology and
+  Bioinformatics\/}, {\bf 2}(3), 254--261.
+
+\bibitem[Julius {\em et~al.}(2009)Julius, Zavlanos, Boyd, and
+  Pappas]{Julius2009}
+Julius, a., Zavlanos, M., Boyd, S., and Pappas, G.~J. (2009).
+\newblock Genetic network identification using convex programming.
+\newblock {\em IET systems biology\/}, {\bf 3}(3), 155--166.
+
+\bibitem[Kreutz and Timmer(2009)Kreutz and Timmer]{Kreutz2009}
+Kreutz, C. and Timmer, J. (2009).
+\newblock Systems biology: experimental design.
+\newblock {\em FEBS Journal\/}, {\bf 276}(4), 923--942.
+
+\bibitem[Marbach {\em et~al.}(2012)Marbach, Costello, K\"{u}ffner, Vega, Prill,
+  Camacho, Allison, Kellis, Collins, and Stolovitzky]{Marbach2012}
+Marbach, D., Costello, J.~C., K\"{u}ffner, R., Vega, N.~M., Prill, R.~J.,
+  Camacho, D.~M., Allison, K.~R., Kellis, M., Collins, J.~J., and Stolovitzky,
+  G. (2012).
+\newblock Wisdom of crowds for robust gene network inference.
+\newblock {\em Nature Methods\/}, {\bf 9}(8), 796--804.
+
+\bibitem[MATLAB(2014)MATLAB]{MATLAB2014}
+MATLAB (2014).
+\newblock 8.3.0.532 (r2014a).
+
+\bibitem[Michalik {\em et~al.}(2010)Michalik, Stuckert, and
+  Marquardt]{Michalik2010}
+Michalik, C., Stuckert, M., and Marquardt, W. (2010).
+\newblock Optimal experimental design for discriminating numerous model
+  candidates: The awdc criterion.
+\newblock {\em Industrial \& Engineering Chemistry Research\/}, {\bf 49}(2),
+  913--919.
+
+\bibitem[Nordling(2013)Nordling]{Nordling2013phdthesis}
+Nordling, T. E.~M. (2013).
+\newblock {\em Robust inference of gene regulatory networks\/}.
+\newblock Ph.D. thesis, KTH School of Electrical Engineering, Automatic Control
+  Lab.
+
+\bibitem[Nordling and Jacobsen(2009)Nordling and Jacobsen]{Nordling2009}
+Nordling, T. E.~M. and Jacobsen, E.~W. (2009).
+\newblock Interampatteness - a generic property of biochemical networks.
+\newblock {\em IET systems biology\/}, {\bf 3}(5), 388--403.
+
+\bibitem[Schwaab {\em et~al.}(2008)Schwaab, Luiz~Monteiro, and
+  Carlos~Pinto]{Schwaab2008}
+Schwaab, M., Luiz~Monteiro, J., and Carlos~Pinto, J. (2008).
+\newblock Sequential experimental design for model discrimination.
+\newblock {\em Chemical Engineering Science\/}, {\bf 63}(9), 2408--2419.
+
+\bibitem[Sj{\"{o}}strand(2005)Sj{\"{o}}strand]{Sjostrand2005}
+Sj{\"{o}}strand, K. (2005).
+\newblock Matlab implementation of {LASSO,} {LARS,} the elastic net and {SPCA}.
+\newblock Version 2.0.
+
+\bibitem[Tegner {\em et~al.}(2003)Tegner, Yeung, Hasty, and
+  Collins]{Tegner2003}
+Tegner, J., Yeung, M. K.~S., Hasty, J., and Collins, J.~J. (2003).
+\newblock Reverse engineering gene networks: Integrating genetic perturbations
+  with dynamical modeling.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\bf
+  100}(10), 5944--5949.
+
+\bibitem[Tj{\"a}rnberg {\em et~al.}(2013)Tj{\"a}rnberg, Nordling, Studham, and
+  Sonnhammer]{Tjarnberg2013}
+Tj{\"a}rnberg, A., Nordling, T. E.~M., Studham, M., and Sonnhammer, E. L.~L.
+  (2013).
+\newblock Optimal sparsity criteria for network inference.
+\newblock {\em Journal of Computational Biology\/}, {\bf 20}(5), 398--408.
+
+\bibitem[Tj\"{a}rnberg {\em et~al.}(2015)Tj\"{a}rnberg, Nordling, Studham,
+  Nelander, and Sonnhammer]{Tjarnberg2014}
+Tj\"{a}rnberg, A., Nordling, T., Studham, M., Nelander, S., and Sonnhammer, E.
+  (2015).
+\newblock Avoiding pitfalls in l1-regularised inference of gene networks.
+\newblock {\em Mol. BioSyst.}, pages 287--296.
+
+\bibitem[Zhao and Yu(2006)Zhao and Yu]{Zhao2006}
+Zhao, P. and Yu, B. (2006).
+\newblock On model selection consistency of lasso.
+\newblock {\em The Journal of Machine Learning Research\/}, {\bf 7},
+  2541--2563.
+
+\end{thebibliography}

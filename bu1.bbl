@@ -1,0 +1,214 @@
+\begin{thebibliography}{}
+
+\bibitem[Albert and Barab\'asi(2002)Albert and Barab\'asi]{Reka-Barabasi2002}
+Albert, R. and Barab\'asi, A.-L. (2002).
+\newblock Statistical mechanics of complex networks.
+\newblock {\em Rev. Mod. Phys.}, {\bf 74}, 47--97.
+
+\bibitem[Bansal {\em et~al.}(2007)Bansal, Belcastro, Ambesi-Impiombato, and {Di
+  Bernardo}]{Bansal2007}
+Bansal, M., Belcastro, V., Ambesi-Impiombato, A., and {Di Bernardo}, D. (2007).
+\newblock How to infer gene networks from expression profiles.
+\newblock {\em Molecular systems biology\/}, {\bf 3}(78), 78.
+
+\bibitem[Barab{\'a}si and Albert(1999)Barab{\'a}si and Albert]{Barabasi1999}
+Barab{\'a}si, A.-L. and Albert, R. (1999).
+\newblock Emergence of scaling in random networks.
+\newblock {\em Science\/}, {\bf 286}(5439), 509--512.
+
+\bibitem[Bellot {\em et~al.}(2015)Bellot, Olsen, Salembier, Oliveras-Verges,
+  and Meyer]{Bellot2015}
+Bellot, P., Olsen, C., Salembier, P., Oliveras-Verges, A., and Meyer, P.
+  (2015).
+\newblock Netbenchmark: a bioconductor package for reproducible benchmarks of
+  gene regulatory network inference.
+\newblock {\em BMC Bioinformatics\/}, {\bf 16}(1), 312.
+
+\bibitem[Di~Camillo {\em et~al.}(2009)Di~Camillo, Toffolo, and
+  Cobelli]{DiCamillo2009}
+Di~Camillo, B., Toffolo, G., and Cobelli, C. (2009).
+\newblock A gene network simulator to assess reverse engineering algorithms.
+\newblock {\em Annals of the New York Academy of Sciences\/}, {\bf 1158}(1),
+  125--142.
+
+\bibitem[Erdos and R{\'e}nyi(1961)Erdos and R{\'e}nyi]{Erdos1961}
+Erdos, P. and R{\'e}nyi, A. (1961).
+\newblock On the evolution of random graphs.
+\newblock {\em Bull. Inst. Internat. Statist\/}, {\bf 38}(4), 343--347.
+
+\bibitem[Friedman {\em et~al.}(2010)Friedman, Hastie, and
+  Tibshirani]{Friedman2010}
+Friedman, J., Hastie, T., and Tibshirani, R. (2010).
+\newblock Regularization paths for generalized linear models via coordinate
+  descent.
+\newblock {\em Journal of statistical software\/}, {\bf 33}(1), 1--22.
+
+\bibitem[Gardner {\em et~al.}(2003)Gardner, Bernardo, Lorenz, and
+  Collins]{Gardner2003}
+Gardner, T.~S., Bernardo, D., Lorenz, D., and Collins, J.~J. (2003).
+\newblock Inferring genetic networks and identifying compound mode of action
+  via expression profiling.
+\newblock {\em Science\/}, {\bf 301}(7), 102--105.
+
+\bibitem[Grant {\em et~al.}(2008)Grant, Michael and Boyd, Stephen and Ye, Yinyu]{grant2008cvx}
+Grant, Michael and Boyd, Stephen and Ye, Yinyu. (2008).
+\newblock CVX: Matlab software for disciplined convex programming.
+
+\bibitem[Hache {\em et~al.}(2009a)Hache, Wierling, Lehrach, and
+  Herwig]{Hache2009b}
+Hache, H., Wierling, C., Lehrach, H., and Herwig, R. (2009a).
+\newblock Genge: systematic generation of gene regulatory networks.
+\newblock {\em Bioinformatics\/}, {\bf 25}(9), 1205--1207.
+
+\bibitem[Hache {\em et~al.}(2009b)Hache, Lehrach, and Herwig]{Hache2009}
+Hache, H., Lehrach, H., and Herwig, R. (2009b).
+\newblock Reverse engineering of gene regulatory networks: A comparative study.
+\newblock {\em EURASIP Journal on Bioinformatics and Systems Biology\/}, {\bf
+  2009}(1), 617281.
+
+\bibitem[Hecker {\em et~al.}(2009)Hecker, Lambeck, Toepfer, van Someren, and
+  Guthke]{Hecker2009}
+Hecker, M., Lambeck, S., Toepfer, S., van Someren, E., and Guthke, R. (2009).
+\newblock Gene regulatory network inference: data integration in dynamic
+  models-a review.
+\newblock {\em Bio Systems\/}, {\bf 96}(1), 86--103.
+
+\bibitem[Khalil and Grizzle(1996)Khalil and Grizzle]{Khalil1996}
+Khalil, H.~K. and Grizzle, J. (1996).
+\newblock {\em Nonlinear systems\/}, volume~3.
+\newblock Prentice hall New Jersey.
+
+\bibitem[Marbach {\em et~al.}(2012)Marbach, Costello, K\"{u}ffner, Vega, Prill,
+  Camacho, Allison, Kellis, Collins, and Stolovitzky]{Marbach2012}
+Marbach, D., Costello, J.~C., K\"{u}ffner, R., Vega, N.~M., Prill, R.~J.,
+  Camacho, D.~M., Allison, K.~R., Kellis, M., Collins, J.~J., and Stolovitzky,
+  G. (2012).
+\newblock Wisdom of crowds for robust gene network inference.
+\newblock {\em Nature Methods\/}, {\bf 9}(8), 796--804.
+
+\bibitem[Margolin {\em et~al.}(2006)Margolin, Adam A and Nemenman, Ilya and Basso, Katia and Wiggins, Chris and Stolovitzky, Gustavo and Favera, Riccardo D and Califano, Andrea]{margolin2006aracne}Margolin, Adam A and Nemenman, Ilya and Basso, Katia and Wiggins, Chris and Stolovitzky, Gustavo and Favera, Riccardo D and Califano, Andrea (2006).
+\newblock ARACNE: an algorithm for the reconstruction of gene regulatory networks in a mammalian cellular context
+\newblock {\em BMC bioinformatics\/},{\bf 7}(Suppl 1), S7
+
+
+\bibitem[Narendra {\em et~al.}(2011)Narendra, Lytkin, Aliferis, and
+  Statnikov]{Narendra2011}
+Narendra, V., Lytkin, N., Aliferis, C., and Statnikov, A. (2011).
+\newblock A comprehensive assessment of methods for de-novo reverse-engineering
+  of genome-scale regulatory networks.
+\newblock {\em Genomics\/}, {\bf 97}(1), 7--18.
+
+\bibitem[Nordling(2013)Nordling]{Nordling2013phdthesis}
+Nordling, T. E.~M. (2013).
+\newblock {\em Robust inference of gene regulatory networks\/}.
+\newblock Ph.D. thesis, KTH School of Electrical Engineering, Automatic Control
+  Lab.
+
+\bibitem[Nordling and Jacobsen(2009)Nordling and Jacobsen]{Nordling2009}
+Nordling, T. E.~M. and Jacobsen, E.~W. (2009).
+\newblock Interampatteness - a generic property of biochemical networks.
+\newblock {\em IET systems biology\/}, {\bf 3}(5), 388--403.
+
+\bibitem[Penfold and Wild(2011)Penfold and Wild]{Penfold2011}
+Penfold, C.~a. and Wild, D.~L. (2011).
+\newblock How to infer gene networks from expression profiles, revisited.
+\newblock {\em Interface Focus\/}, {\bf 1}(6), 857--870.
+
+\bibitem[Prettejohn {\em et~al.}(2011)Prettejohn, Berryman, and McDonnell]{Prettejohn2011} Prettejohn, B.~J., Berryman, M.~J., and McDonnell, M.~D. (2011).
+\newblock Methods for generating complex networks with selected structural properties for simulations: A review and tutorial for neuroscientists.
+\newblock {\em Frontiers in Computational Neuroscience\/}, {\bf 5}(11) 
+
+\bibitem[SPIEC-EASI2015 (2015)Kurtz, Zachary D. , Muller, Christian L. , Miraldi, Emily R. , Littman, Dan R. , Blaser, Martin J. , Bonneau, Richard A.]{SPIEC-EASI2015}Kurtz, Zachary D. , Muller, Christian L. , Miraldi, Emily R. , Littman, Dan R. , Blaser, Martin J. , Bonneau, Richard A. (2015)
+\newblock Sparse and Compositionally Robust Inference of Microbial Ecological Networks
+\newblock{PLOS Computational Biology \/},{\bf 11}(5)
+
+
+
+\bibitem[Rogers2005 (2005)Rogers, Simon and Girolami, Mark]{rogers2005bayesian}Rogers, Simon and Girolami, Mark (2005)
+  \newblock A Bayesian regression approach to the inference of regulatory networks from gene expression data.
+ \newblock {\em Bioinformatics, Oxford Univ Press \/},{\bf 21}(14)
+
+\bibitem[Salgado {\em et~al.}(2013)Salgado, Peralta-Gil, Gama-Castro,
+  Santos-Zavaleta, Mu\~niz Rascado, Garc\'ia-Sotelo, Weiss, Solano-Lira,
+  Mart\'inez-Flores, Medina-Rivera, Salgado-Osorio, Alquicira-Hern\'andez,
+  Alquicira-Hern\'andez, L\'opez-Fuentes, Porr\'on-Sotelo, Huerta,
+  Bonavides-Mart\'inez, Balderas-Martínez, Pannier, Olvera, Labastida,
+  Jim\'enez-Jacinto, Vega-Alvarado, del Moral-Ch\'avez, Hern\'andez-Alvarez,
+  Morett, and Collado-Vides]{Salgado2013}
+Salgado, H., Peralta-Gil, M., Gama-Castro, S., Santos-Zavaleta, A., Mu\~niz
+  Rascado, L., Garc\'ia-Sotelo, J.~S., Weiss, V., Solano-Lira, H.,
+  Mart\'inez-Flores, I., Medina-Rivera, A., Salgado-Osorio, G.,
+  Alquicira-Hern\'andez, S., Alquicira-Hern\'andez, K., L\'opez-Fuentes, A.,
+  Porr\'on-Sotelo, L., Huerta, A.~M., Bonavides-Mart\'inez, C.,
+  Balderas-Mart\'inez, Y.~I., Pannier, L., Olvera, M., Labastida, A.,
+  Jim\'enez-Jacinto, V., Vega-Alvarado, L., del Moral-Ch\'avez, V.,
+  Hern\'andez-Alvarez, A., Morett, E., and Collado-Vides, J. (2013).
+\newblock {RegulonDB} v8.0: omics data sets, evolutionary conservation,
+  regulatory phrases, cross-validated gold standards and more.
+\newblock {\em Nucleic Acids Research\/}, {\bf 41}(D1), D203--D213.
+
+\bibitem[Schaffter {\em et~al.}(2011)Schaffter, Marbach, and
+  Floreano]{Schaffter2011}
+Schaffter, T., Marbach, D., and Floreano, D. (2011).
+\newblock {GeneNetWeaver}: In silico benchmark generation and performance
+  profiling of network inference methods.
+\newblock {\em Bioinformatics (Oxford, England)\/}, {\bf
+  27}(16),  2263--70.
+
+\bibitem[Teixeira {\em et~al.}(2013)Teixeira, Monteiro, Guerreiro, Goncalves,
+  Mira, dos Santos, Cabrito, Palma, Costa, Francisco, Madeira, Oliveira,
+  Freitas, and S\'a-Correia]{Teixeira2013}
+Teixeira, M.~C., Monteiro, P.~T., Guerreiro, J.~F., Goncalves, J.~P., Mira,
+  N.~P., dos Santos, S.~C., Cabrito, T.~R., Palma, M., Costa, C., Francisco,
+  A.~P., Madeira, S.~C., Oliveira, A.~L., Freitas, A.~T., and S\'a-Correia, I.
+  (2013).
+\newblock The yeastract database: an upgraded information system for the
+  analysis of gene and genomic transcription regulation in saccharomyces
+  cerevisiae.
+\newblock {\em Nucleic Acids Research\/}.
+
+\bibitem[Tibshirani(1996)Tibshirani]{Tibshirani1996}
+Tibshirani, R. (1996).
+\newblock Regression shrinkage and selection via the lasso.
+\newblock {\em Journal of the Royal Statistical Society Series B
+  Methodological\/}, {\bf 58}(1), 267--288.
+
+\bibitem[Tj{\"a}rnberg {\em et~al.}(2013)Tj{\"a}rnberg, Nordling, Studham, and
+  Sonnhammer]{Tjarnberg2013}
+Tj{\"a}rnberg, A., Nordling, T. E.~M., Studham, M., and Sonnhammer, E. L.~L.
+  (2013).
+\newblock Optimal sparsity criteria for network inference.
+\newblock {\em Journal of Computational Biology\/}, {\bf 20}(5), 398--408.
+
+\bibitem[Tj\"{a}rnberg {\em et~al.}(2015)Tj\"{a}rnberg, Nordling, Studham,
+  Nelander, and Sonnhammer]{Tjarnberg2014}
+Tj\"{a}rnberg, A., Nordling, T., Studham, M., Nelander, S., and Sonnhammer, E.
+  (2015).
+\newblock Avoiding pitfalls in l1-regularised inference of gene networks.
+\newblock {\em Mol. BioSyst.}, {\bf 11}(1),  287--296.
+
+\bibitem[Van~den Bulcke {\em et~al.}(2006)Van~den Bulcke, Van~Leemput, Naudts,
+  van Remortel, Ma, Verschoren, De~Moor, and Marchal]{VandenBulcke2006}
+Van~den Bulcke, T., Van~Leemput, K., Naudts, B., van Remortel, P., Ma, H.,
+  Verschoren, A., De~Moor, B., and Marchal, K. (2006).
+\newblock Syntren: a generator of synthetic gene expression data for design and
+  analysis of structure learning algorithms.
+\newblock {\em BMC Bioinformatics\/}, {\bf 7}(1), 1--12.
+
+\bibitem[Watts and Strogatz(1998)Watts and Strogatz]{Watts1998}
+Watts, D.~J. and Strogatz, S.~H. (1998).
+\newblock Collective dynamics of `small-world' networks.
+\newblock {\em Nature\/}, {\bf 393}(6684), 440--442.
+
+\bibitem[Yuan {\em et~al.}(2011)Yuan, Stan, Warnick, and Goncalves]{Yuan2011}
+Yuan, Y., Stan, G.-B., Warnick, S., and Goncalves, J. (2011).
+\newblock Robust dynamical network structure reconstruction.
+\newblock {\em Automatica\/}, {\bf 47}(6), 1230--1235.
+
+\bibitem[Zavlanos {\em et~al.}(2011)Zavlanos, Julius, Boyd, and
+  Pappas]{Zavlanos2011}
+Zavlanos, M.~M., Julius, a.~A., Boyd, S.~P., and Pappas, G.~J. (2011).
+\newblock Inferring stable genetic networks from steady-state data.
+\newblock {\em Automatica\/}, {\bf 47}(6), 1113--1122.
+
+\end{thebibliography}
